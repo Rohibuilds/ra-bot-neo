@@ -1,10 +1,4 @@
 # Firmware
+**[Open the actual Arduino sketch](RA_BOT_NEO_ESP32S3_v2/RA_BOT_NEO_ESP32S3_v2.ino).**
 
-Tested firmware for **RA BOT NEO** will be stored here.
-
-- Keep the main Arduino sketch in a clearly named project folder.
-- List every required library and tested version.
-- Keep Wi-Fi credentials and API keys in an ignored local configuration file.
-- Tag stable releases after hardware verification.
-
-Return to the [RA BOT NEO overview](../README.md).
+Download the whole repository so all companion headers remain beside the sketch. See [build steps](../docs/README.md) and [wiring](../hardware/README.md).
